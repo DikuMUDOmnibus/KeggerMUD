@@ -1,0 +1,129 @@
+#AREADATA
+Name Quest Area~
+Builders Frostfyre~
+VNUMs 17000 17099
+Credits 1 420} Frostfyre   Quest Area~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#17000
+junk object zero~
+junk object 0~
+Junk object 0~
+unknown~
+trash 0 AO
+0 0 0 0 0
+1 0 0 P
+#17001
+junk object one~
+junk object 1~
+Junk object 1~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#17002
+junk object two~
+junk object 2~
+Junk object 2~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#17003
+junk object three~
+junk object 3~
+Junk object 3~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#17004
+junk object 4~
+junk object 4~
+Junk object 4~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#17095
+frostfyre lost cell phone quest token~
+{GFrostfyre's lost cell phone{x~
+{GFrostfyre's lost cell phone lies here! Return it!{x~
+unknown~
+treasure AB AO
+0 0 0 0 0
+1 10 420 P
+#17096
+frostfyre car keys token quest~
+{BFrostfyre's car keys{x~
+{BFrostfyre's lost car keys lie here! Return them!{x~
+unknown~
+treasure AB AO
+0 0 0 0 0
+1 10 420 P
+#17097
+frostfyre lost mind quest token~
+{DFrostfyre's lost mind{x~
+{DFrostfyre's lost mind lies here, perhaps he needs it?{x~
+unknown~
+treasure AB AO
+0 0 0 0 0
+1 10 420 P
+#17098
+frostfyre lost boxer shorts quest token~
+{RFrostfyre's lost Boxer Shorts{x~
+{RFrostfyre's lost boxer shorts lie here! Get them!{x~
+unknown~
+treasure AB AO
+0 0 0 0 0
+1 10 420 P
+#17099
+frostfyre lost beer mug quest token~
+{yFrostfyre's lost beer Mug{x~
+{yFrostfyre's lost beer mug is here! Return it to him!{x~
+unknown~
+treasure AB AO
+0 0 0 0 0
+1 10 420 P
+#0
+
+
+
+#ROOMS
+#17000
+Quest Room~
+~
+0 40964 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

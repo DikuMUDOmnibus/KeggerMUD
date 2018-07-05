@@ -1,0 +1,110 @@
+Sun Mar 28 13:26:31 2004 :: Sock.sinaddr:  192.168.1.1
+Sun Mar 28 13:26:34 2004 :: Loading Frostfyre.
+Sun Mar 28 13:26:35 2004 :: Frostfyre@192.168.1.1 has connected.
+Sun Mar 28 14:03:45 2004 :: Sock.sinaddr:  209.132.171.196
+Sun Mar 28 14:03:59 2004 :: Loading Abazan.
+Sun Mar 28 14:04:03 2004 :: Abazan@209.132.171.196 has connected.
+Sun Mar 28 14:04:40 2004 :: Abazan has fled from KeggerMUD.
+Sun Mar 28 14:15:04 2004 :: Check Levels:
+Sun Mar 28 14:15:04 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Sun Mar 28 14:15:04 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Sun Mar 28 14:15:04 2004 :: Check Levels:
+Sun Mar 28 14:15:04 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Sun Mar 28 14:15:04 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Sun Mar 28 14:15:04 2004 :: Check Levels:
+Sun Mar 28 14:15:04 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Sun Mar 28 14:15:04 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Sun Mar 28 14:15:04 2004 :: Check Levels:
+Sun Mar 28 14:15:04 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Sun Mar 28 14:15:04 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Sun Mar 28 14:15:04 2004 :: Check Levels:
+Sun Mar 28 14:15:04 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Sun Mar 28 14:15:04 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Sun Mar 28 14:15:04 2004 :: Check Levels:
+Sun Mar 28 14:15:04 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Sun Mar 28 14:15:04 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Sun Mar 28 14:15:04 2004 :: Check Levels:
+Sun Mar 28 14:15:04 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Sun Mar 28 14:15:04 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Sun Mar 28 14:19:04 2004 :: Check Levels:
+Sun Mar 28 14:19:04 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Sun Mar 28 14:19:04 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Sun Mar 28 15:12:17 2004 :: Sock.sinaddr:  192.168.1.1
+Sun Mar 28 15:12:19 2004 :: Loading Frostfyre.
+Sun Mar 28 15:12:21 2004 :: Closing link to Frostfyre.
+Sun Mar 28 15:12:21 2004 :: Frostfyre@192.168.1.1 reconnected.
+Sun Mar 28 15:15:08 2004 :: Sock.sinaddr:  64.222.130.200
+Sun Mar 28 15:15:17 2004 :: EOF encountered on read.
+Sun Mar 28 15:17:09 2004 :: Check Levels:
+Sun Mar 28 15:17:09 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Sun Mar 28 15:17:09 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Sun Mar 28 15:17:09 2004 :: Check Levels:
+Sun Mar 28 15:17:09 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Sun Mar 28 15:17:09 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Sun Mar 28 16:01:46 2004 :: Sock.sinaddr:  209.132.171.201
+Sun Mar 28 16:01:55 2004 :: Loading Abazan.
+Sun Mar 28 16:01:57 2004 :: Abazan@209.132.171.201 has connected.
+Sun Mar 28 16:02:42 2004 :: Abazan has fled from KeggerMUD.
+Sun Mar 28 17:00:41 2004 :: Sock.sinaddr:  192.168.1.1
+Sun Mar 28 17:00:44 2004 :: Loading Frostfyre.
+Sun Mar 28 17:00:46 2004 :: Closing link to Frostfyre.
+Sun Mar 28 17:00:46 2004 :: Frostfyre@192.168.1.1 reconnected.
+Read_from_descriptor: Connection reset by peer
+Sun Mar 28 17:04:12 2004 :: Closing link to Frostfyre.
+Sun Mar 28 17:06:08 2004 :: Sock.sinaddr:  192.168.1.1
+Sun Mar 28 17:06:12 2004 :: Loading Frostfyre.
+Sun Mar 28 17:06:13 2004 :: Frostfyre@192.168.1.1 reconnected.
+Sun Mar 28 17:46:36 2004 :: Sock.sinaddr:  68.147.134.91
+New_descriptor: getpeername: Transport endpoint is not connected
+Read_from_descriptor: Connection reset by peer
+Read_from_descriptor: Connection reset by peer
+Sun Mar 28 19:11:56 2004 :: Sock.sinaddr:  209.132.171.163
+Sun Mar 28 19:12:03 2004 :: Loading Abazan.
+Sun Mar 28 19:12:05 2004 :: Abazan@209.132.171.163 has connected.
+Sun Mar 28 19:12:44 2004 :: Abazan has fled from KeggerMUD.
+Read_from_descriptor: Connection timed out
+Sun Mar 28 19:28:59 2004 :: Closing link to Frostfyre.
+Sun Mar 28 19:51:14 2004 :: Sock.sinaddr:  192.168.1.1
+Sun Mar 28 19:51:18 2004 :: Loading Frostfyre.
+Sun Mar 28 19:51:20 2004 :: Frostfyre@192.168.1.1 reconnected.
+Sun Mar 28 23:49:02 2004 :: Sock.sinaddr:  209.132.171.46
+Sun Mar 28 23:49:10 2004 :: Loading Abazan.
+Sun Mar 28 23:49:17 2004 :: Abazan@5a-181.ccrtc.com has connected.
+Sun Mar 28 23:50:04 2004 :: Abazan has fled from KeggerMUD.
+Read_from_descriptor: Connection timed out
+Mon Mar 29 00:06:36 2004 :: Closing link to Frostfyre.
+Mon Mar 29 05:04:37 2004 :: Sock.sinaddr:  68.19.214.20
+Mon Mar 29 05:05:27 2004 :: Chris@adsl-19-214-20.bna.bellsouth.net new player.
+Mon Mar 29 05:05:56 2004 :: EOF encountered on read.
+Mon Mar 29 05:05:56 2004 :: Closing link to Chris.
+Mon Mar 29 05:09:14 2004 :: Sock.sinaddr:  192.168.1.1
+Mon Mar 29 05:09:17 2004 :: [*****] BUG: Load_char_obj: # not found.
+Mon Mar 29 05:09:18 2004 :: Frostfyre@192.168.1.1 reconnected.
+Mon Mar 29 05:37:50 2004 :: Chris has fled from KeggerMUD.
+Mon Mar 29 07:49:15 2004 :: Sock.sinaddr:  24.93.135.30
+Read_from_descriptor: Connection reset by peer
+Mon Mar 29 07:49:26 2004 :: Closing link to Doskias.
+Mon Mar 29 08:07:34 2004 :: Sock.sinaddr:  204.209.44.14
+Mon Mar 29 08:07:35 2004 :: EOF encountered on read.
+Mon Mar 29 09:04:53 2004 :: Sock.sinaddr:  131.247.237.24
+Mon Mar 29 09:05:17 2004 :: Brad@holly237-24.resnet.usf.edu new player.
+Mon Mar 29 09:05:26 2004 :: EOF encountered on read.
+Mon Mar 29 09:05:26 2004 :: Closing link to Brad.
+Mon Mar 29 12:05:27 2004 :: Sock.sinaddr:  69.93.197.196
+Mon Mar 29 12:05:28 2004 :: EOF encountered on read.
+Mon Mar 29 13:10:54 2004 :: Sock.sinaddr:  192.168.1.1
+Mon Mar 29 13:10:56 2004 :: Loading Frostfyre.
+Mon Mar 29 13:10:58 2004 :: Closing link to Frostfyre.
+Mon Mar 29 13:10:58 2004 :: Frostfyre@192.168.1.1 reconnected.
+Mon Mar 29 13:42:32 2004 :: Sock.sinaddr:  172.170.95.206
+Mon Mar 29 13:42:37 2004 :: EOF encountered on read.
+Mon Mar 29 16:25:52 2004 :: Sock.sinaddr:  192.168.1.1
+Mon Mar 29 16:31:42 2004 :: Loading Frostfyre.
+Mon Mar 29 16:31:44 2004 :: Closing link to Frostfyre.
+Mon Mar 29 16:31:44 2004 :: Frostfyre@192.168.1.1 reconnected.
+Mon Mar 29 16:53:02 2004 :: Sock.sinaddr:  127.0.0.1
+Mon Mar 29 16:53:05 2004 :: Loading Frostfyre.
+Mon Mar 29 16:53:08 2004 :: Closing link to Frostfyre.
+Mon Mar 29 16:53:08 2004 :: Frostfyre@localhost reconnected.
+Mon Mar 29 16:55:33 2004 :: EOF encountered on read.
+Mon Mar 29 16:55:33 2004 :: Closing link to Frostfyre.

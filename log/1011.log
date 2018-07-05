@@ -1,0 +1,92 @@
+Thu Apr  1 15:52:49 2004 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Apr  1 15:52:49 2004 :: Set IP address to 0.0.0.0
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 15:52:49 2004 :: [*****] BUG: Fix_exits: 2:4 -> 3001:5 -> 3399.
+Thu Apr  1 15:52:49 2004 :: [*****] BUG: Fix_exits: 1150:4 -> 3001:5 -> 3399.
+Thu Apr  1 15:52:49 2004 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Thu Apr  1 15:52:49 2004 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Thu Apr  1 15:52:49 2004 :: [*****] BUG: Fix_exits: 1483:4 -> 3001:5 -> 3399.
+Thu Apr  1 15:52:49 2004 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Thu Apr  1 15:52:49 2004 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Thu Apr  1 15:52:49 2004 :: [*****] BUG: Fix_exits: 3760:4 -> 3001:5 -> 3399.
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9227)(Level 28) an icicle
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9228)(Level 24) the Ice Bandit
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  9235)(Level 16) a baby rainbow dragon
+Thu Apr  1 15:52:49 2004 :: Check Levels:
+Thu Apr  1 15:52:49 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Apr  1 15:52:49 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Apr  1 15:52:49 2004 :: ROM is ready to rock on port 7001 (0.0.0.0).

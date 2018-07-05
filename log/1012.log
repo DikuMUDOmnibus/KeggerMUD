@@ -1,0 +1,416 @@
+Thu Apr  1 12:23:48 2004 :: Loading configuration settings from ../area/qmconfig.rc.
+Thu Apr  1 12:23:48 2004 :: Set IP address to 0.0.0.0
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: Loaded 0 mobprogs.
+Thu Apr  1 12:23:48 2004 :: [*****] BUG: Fix_exits: 2:4 -> 3001:5 -> 3399.
+Thu Apr  1 12:23:48 2004 :: [*****] BUG: Fix_exits: 1150:4 -> 3001:5 -> 3399.
+Thu Apr  1 12:23:48 2004 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Thu Apr  1 12:23:48 2004 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Thu Apr  1 12:23:48 2004 :: [*****] BUG: Fix_exits: 1483:4 -> 3001:5 -> 3399.
+Thu Apr  1 12:23:48 2004 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Thu Apr  1 12:23:48 2004 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Thu Apr  1 12:23:48 2004 :: [*****] BUG: Fix_exits: 3760:4 -> 3001:5 -> 3399.
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9227)(Level 28) an icicle
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9228)(Level 24) the Ice Bandit
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  9235)(Level 16) a baby rainbow dragon
+Thu Apr  1 12:23:48 2004 :: Check Levels:
+Thu Apr  1 12:23:48 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Apr  1 12:23:48 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Apr  1 12:23:48 2004 :: ROM is ready to rock on port 7001 (0.0.0.0).
+Thu Apr  1 13:23:52 2004 :: Check Levels:
+Thu Apr  1 13:23:52 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Thu Apr  1 13:23:52 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Thu Apr  1 13:23:52 2004 :: Check Levels:
+Thu Apr  1 13:23:52 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 13:23:52 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Thu Apr  1 13:23:52 2004 :: Check Levels:
+Thu Apr  1 13:23:52 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Thu Apr  1 13:23:52 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Thu Apr  1 13:23:52 2004 :: Check Levels:
+Thu Apr  1 13:23:52 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Thu Apr  1 13:23:52 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Thu Apr  1 13:23:52 2004 :: Check Levels:
+Thu Apr  1 13:23:52 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Thu Apr  1 13:23:52 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Thu Apr  1 13:23:52 2004 :: Check Levels:
+Thu Apr  1 13:23:52 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 13:23:52 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Thu Apr  1 13:23:52 2004 :: Check Levels:
+Thu Apr  1 13:23:52 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 13:23:52 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Thu Apr  1 13:23:52 2004 :: Check Levels:
+Thu Apr  1 13:23:52 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Thu Apr  1 13:23:52 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Thu Apr  1 14:25:52 2004 :: Check Levels:
+Thu Apr  1 14:25:52 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Thu Apr  1 14:25:52 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Thu Apr  1 14:25:52 2004 :: Check Levels:
+Thu Apr  1 14:25:52 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Thu Apr  1 14:25:52 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Thu Apr  1 21:31:04 2004 :: Sock.sinaddr:  204.209.44.14
+Thu Apr  1 21:31:12 2004 :: EOF encountered on read.
+Fri Apr  2 02:15:22 2004 :: Sock.sinaddr:  204.209.44.14
+Fri Apr  2 02:15:22 2004 :: EOF encountered on read.
+Fri Apr  2 12:19:20 2004 :: Sock.sinaddr:  65.102.38.132
+Fri Apr  2 12:20:13 2004 :: Dyanna@65-102-38-132.ptld.qwest.net new player.
+Fri Apr  2 12:21:06 2004 :: EOF encountered on read.
+Fri Apr  2 12:21:06 2004 :: Closing link to Dyanna.
+Fri Apr  2 12:23:52 2004 :: Sock.sinaddr:  65.102.38.132
+Fri Apr  2 12:23:57 2004 :: EOF encountered on read.
+Fri Apr  2 12:24:13 2004 :: Sock.sinaddr:  65.102.38.132
+Fri Apr  2 12:44:44 2004 :: EOF encountered on read.
+Fri Apr  2 12:52:57 2004 :: Dyanna has fled from KeggerMUD.
+Fri Apr  2 18:03:16 2004 :: Sock.sinaddr:  172.208.246.42
+Fri Apr  2 18:03:55 2004 :: Sankin@ACD0F62A.ipt.aol.com new player.
+Fri Apr  2 18:12:20 2004 :: Log Sankin: delete
+Fri Apr  2 18:12:22 2004 :: Log Sankin: delete
+Fri Apr  2 18:12:22 2004 :: Sankin has fled from KeggerMUD.
+Fri Apr  2 18:58:56 2004 :: Sock.sinaddr:  68.51.144.150
+Fri Apr  2 18:59:13 2004 :: Corellon@pcp438597pcs.poolr01.ga.comcast.net new player.
+Fri Apr  2 19:01:11 2004 :: EOF encountered on read.
+Fri Apr  2 19:01:11 2004 :: Closing link to Corellon.
+Fri Apr  2 19:32:58 2004 :: Corellon has fled from KeggerMUD.
+Fri Apr  2 23:04:18 2004 :: Sock.sinaddr:  4.241.0.160
+Fri Apr  2 23:04:46 2004 :: Marroc@dialup-4.241.0.160.Dial1.SanDiego1.Level3.net new player.
+Fri Apr  2 23:05:19 2004 :: EOF encountered on read.
+Fri Apr  2 23:05:19 2004 :: Closing link to Marroc.
+Fri Apr  2 23:21:31 2004 :: Sock.sinaddr:  68.129.7.91
+Fri Apr  2 23:21:49 2004 :: Zaldan@1Cust91.tnt1.casa-grande.az.da.uu.net new player.
+Fri Apr  2 23:22:01 2004 :: EOF encountered on read.
+Fri Apr  2 23:22:01 2004 :: Closing link to Zaldan.
+Fri Apr  2 23:36:58 2004 :: Marroc has fled from KeggerMUD.
+Sat Apr  3 00:06:31 2004 :: Sock.sinaddr:  172.153.115.234
+Sat Apr  3 00:06:53 2004 :: Selzin@AC9973EA.ipt.aol.com new player.
+Sat Apr  3 00:07:00 2004 :: EOF encountered on read.
+Sat Apr  3 00:07:00 2004 :: Closing link to Selzin.
+Sat Apr  3 02:12:42 2004 :: Sock.sinaddr:  204.209.44.14
+Sat Apr  3 02:12:42 2004 :: EOF encountered on read.
+Sat Apr  3 08:11:38 2004 :: Sock.sinaddr:  129.19.75.135
+Read_from_descriptor: Connection reset by peer
+Sat Apr  3 08:12:47 2004 :: Closing link to Adwendamas.
+Sat Apr  3 13:09:15 2004 :: Sock.sinaddr:  68.98.186.203
+Sat Apr  3 13:09:38 2004 :: Xark@ip68-98-186-203.dc.dc.cox.net new player.
+Sat Apr  3 13:10:24 2004 :: Log Xark: delete
+Sat Apr  3 13:10:25 2004 :: Log Xark: delete
+Sat Apr  3 13:10:25 2004 :: Xark has fled from KeggerMUD.
+Sat Apr  3 13:39:52 2004 :: Sock.sinaddr:  68.58.84.82
+Sat Apr  3 13:44:07 2004 :: Zuhalter@pcp965736pcs.lwrnce01.in.comcast.net new player.
+Sat Apr  3 13:44:28 2004 :: Zuhalter has fled from KeggerMUD.
+Sat Apr  3 15:22:04 2004 :: Sock.sinaddr:  68.123.72.251
+Sat Apr  3 15:22:11 2004 :: EOF encountered on read.
+Sat Apr  3 17:00:08 2004 :: Sock.sinaddr:  64.119.68.53
+Sat Apr  3 17:00:43 2004 :: Rafirr@64.119.68.53 new player.
+Sat Apr  3 17:05:26 2004 :: Rafirr has fled from KeggerMUD.
+Sat Apr  3 20:26:50 2004 :: Sock.sinaddr:  192.187.240.50
+Sat Apr  3 20:26:58 2004 :: EOF encountered on read.
+Sat Apr  3 20:28:09 2004 :: Sock.sinaddr:  24.81.83.142
+Sat Apr  3 20:28:12 2004 :: EOF encountered on read.
+Sat Apr  3 20:28:47 2004 :: Sock.sinaddr:  192.187.240.50
+Sat Apr  3 20:30:52 2004 :: Subulan@dsc03-sai-tx-192-187-240-50.rasserver.net new player.
+Sat Apr  3 20:31:45 2004 :: EOF encountered on read.
+Sat Apr  3 20:31:45 2004 :: Closing link to Subulan.
+Sat Apr  3 21:03:04 2004 :: Subulan has fled from KeggerMUD.
+Sat Apr  3 23:48:31 2004 :: Sock.sinaddr:  66.127.200.146
+Sat Apr  3 23:49:02 2004 :: Sols@adsl-66-127-200-146.dsl.snfc21.pacbell.net new player.
+Sat Apr  3 23:50:08 2004 :: EOF encountered on read.
+Sat Apr  3 23:50:08 2004 :: Closing link to Sols.
+Sun Apr  4 01:13:14 2004 :: Sock.sinaddr:  204.209.44.14
+Sun Apr  4 01:13:14 2004 :: EOF encountered on read.
+Sun Apr  4 08:37:21 2004 :: Sock.sinaddr:  172.164.227.52
+Sun Apr  4 08:37:34 2004 :: Sankin@ACA4E334.ipt.aol.com new player.
+Sun Apr  4 08:38:28 2004 :: EOF encountered on read.
+Sun Apr  4 08:38:28 2004 :: Closing link to Sankin.
+Sun Apr  4 09:10:05 2004 :: Sankin has fled from KeggerMUD.
+Sun Apr  4 09:43:56 2004 :: Sock.sinaddr:  172.164.227.52
+Read_from_descriptor: Connection reset by peer
+Sun Apr  4 12:57:35 2004 :: Sock.sinaddr:  68.123.73.48
+Sun Apr  4 12:57:39 2004 :: EOF encountered on read.
+Sun Apr  4 14:10:37 2004 :: Sock.sinaddr:  69.66.77.221
+Sun Apr  4 14:10:50 2004 :: Cheapshot@mnpl-004-029.dialup.iowatelecom.net new player.
+Sun Apr  4 14:15:01 2004 :: Cheapshot has fled from KeggerMUD.
+Sun Apr  4 16:25:11 2004 :: Sock.sinaddr:  69.179.54.235
+Sun Apr  4 16:25:21 2004 :: EOF encountered on read.
+Sun Apr  4 16:40:08 2004 :: Sock.sinaddr:  69.179.54.235
+Sun Apr  4 16:40:38 2004 :: Finale@d15-235.rb2.lax.centurytel.net new player.
+Sun Apr  4 16:40:49 2004 :: Finale has fled from KeggerMUD.
+Sun Apr  4 16:59:36 2004 :: Sock.sinaddr:  209.214.200.34
+Sun Apr  4 17:00:27 2004 :: Peyton@host-209-214-200-34.gsp.bellsouth.net new player.
+Sun Apr  4 17:01:49 2004 :: EOF encountered on read.
+Sun Apr  4 17:01:49 2004 :: Closing link to Peyton.
+Sun Apr  4 18:04:13 2004 :: Sock.sinaddr:  69.66.73.202
+Sun Apr  4 18:04:23 2004 :: Lark@mnpl-001-202.dialup.iowatelecom.net new player.
+Sun Apr  4 18:04:34 2004 :: Lark has fled from KeggerMUD.
+Sun Apr  4 19:49:50 2004 :: Sock.sinaddr:  137.186.221.251
+Sun Apr  4 19:50:17 2004 :: EOF encountered on read.
+Sun Apr  4 19:50:17 2004 :: Closing link to Zoing.
+Sun Apr  4 21:11:57 2004 :: Sock.sinaddr:  4.138.42.249
+Sun Apr  4 21:12:26 2004 :: Enouhin@dialup-4.138.42.249.Dial1.Atlanta1.Level3.net new player.
+Sun Apr  4 21:12:36 2004 :: Enouhin has fled from KeggerMUD.
+Sun Apr  4 22:01:04 2004 :: Sock.sinaddr:  68.54.228.101
+Sun Apr  4 22:01:59 2004 :: Raxx@pcp08616242pcs.nash01.tn.comcast.net new player.
+Sun Apr  4 22:05:57 2004 :: EOF encountered on read.
+Sun Apr  4 22:05:57 2004 :: Closing link to Raxx.
+Sun Apr  4 22:06:01 2004 :: Sock.sinaddr:  4.138.43.159
+Sun Apr  4 22:06:04 2004 :: Loading Enouhin.
+Sun Apr  4 22:06:05 2004 :: Enouhin@dialup-4.138.43.159.Dial1.Atlanta1.Level3.net has connected.
+Read_from_descriptor: Connection reset by peer
+Sun Apr  4 22:06:12 2004 :: Closing link to Enouhin.
+Sun Apr  4 22:37:08 2004 :: Raxx has fled from KeggerMUD.
+Sun Apr  4 22:38:08 2004 :: Enouhin has fled from KeggerMUD.
+Sun Apr  4 23:38:16 2004 :: Sock.sinaddr:  24.98.221.119
+Sun Apr  4 23:38:31 2004 :: EOF encountered on read.
+Sun Apr  4 23:38:31 2004 :: Closing link to Ais.
+Mon Apr  5 02:14:52 2004 :: Sock.sinaddr:  204.209.44.14
+Mon Apr  5 02:14:52 2004 :: EOF encountered on read.
+Mon Apr  5 03:14:56 2004 :: Sock.sinaddr:  68.166.91.224
+Mon Apr  5 03:15:22 2004 :: Vreena@h-68-166-91-224.chcgilgm.dynamic.covad.net new player.
+Mon Apr  5 03:21:45 2004 :: Vreena gained level 2!
+Mon Apr  5 03:24:16 2004 :: Vreena has fled from KeggerMUD.
+Mon Apr  5 11:04:51 2004 :: Sock.sinaddr:  202.156.214.60
+Mon Apr  5 11:04:59 2004 :: EOF encountered on read.
+Mon Apr  5 11:05:40 2004 :: Sock.sinaddr:  64.81.85.132
+Mon Apr  5 11:06:22 2004 :: Kracus@dsl081-085-132.lax1.dsl.speakeasy.net new player.
+Mon Apr  5 11:07:10 2004 :: EOF encountered on read.
+Mon Apr  5 11:07:10 2004 :: Closing link to Kracus.
+Mon Apr  5 11:17:28 2004 :: Sock.sinaddr:  69.66.77.210
+Mon Apr  5 11:18:00 2004 :: Baddice@mnpl-004-018.dialup.iowatelecom.net new player.
+Mon Apr  5 11:19:46 2004 :: Baddice has fled from KeggerMUD.
+Mon Apr  5 11:39:09 2004 :: Kracus has fled from KeggerMUD.
+Mon Apr  5 13:33:34 2004 :: Sock.sinaddr:  65.41.213.86
+Mon Apr  5 13:33:54 2004 :: EOF encountered on read.
+Mon Apr  5 13:33:54 2004 :: Closing link to Nem.
+Mon Apr  5 15:25:44 2004 :: Sock.sinaddr:  204.98.2.11
+Mon Apr  5 15:26:17 2004 :: Amdusias@204.98.2.11 new player.
+Mon Apr  5 15:30:08 2004 :: EOF encountered on read.
+Mon Apr  5 15:30:08 2004 :: Closing link to Amdusias.
+Mon Apr  5 16:01:09 2004 :: Amdusias has fled from KeggerMUD.
+Mon Apr  5 20:10:51 2004 :: Sock.sinaddr:  68.98.186.203
+Mon Apr  5 20:10:53 2004 :: EOF encountered on read.
+Mon Apr  5 20:11:22 2004 :: Sock.sinaddr:  68.98.186.203
+Mon Apr  5 20:11:40 2004 :: Xark@ip68-98-186-203.dc.dc.cox.net new player.
+Mon Apr  5 20:14:47 2004 :: Log Xark: delete
+Mon Apr  5 20:14:47 2004 :: Log Xark: delete
+Mon Apr  5 20:14:47 2004 :: Xark has fled from KeggerMUD.
+Mon Apr  5 20:22:39 2004 :: Sock.sinaddr:  209.204.88.67
+Mon Apr  5 20:23:18 2004 :: Xanatos@sarc2b-209-204-88-67.sniparpa.net new player.
+Mon Apr  5 20:23:43 2004 :: Xanatos has fled from KeggerMUD.
+Mon Apr  5 23:24:16 2004 :: Sock.sinaddr:  69.66.77.240
+Mon Apr  5 23:24:19 2004 :: Loading Baddice.
+Mon Apr  5 23:24:20 2004 :: Baddice@mnpl-005-016.dialup.iowatelecom.net has connected.
+Mon Apr  5 23:24:25 2004 :: Baddice has fled from KeggerMUD.
+Tue Apr  6 02:12:07 2004 :: Sock.sinaddr:  204.209.44.14
+Tue Apr  6 02:12:07 2004 :: EOF encountered on read.
+Tue Apr  6 06:57:55 2004 :: Sock.sinaddr:  192.168.1.1
+Tue Apr  6 06:57:59 2004 :: Loading Frostfyre.
+Tue Apr  6 06:58:00 2004 :: Frostfyre@192.168.1.1 has connected.
+Tue Apr  6 06:58:47 2004 :: Frostfyre has fled from KeggerMUD.
+Tue Apr  6 06:58:59 2004 :: Sock.sinaddr:  192.168.1.1
+Tue Apr  6 06:59:01 2004 :: Loading Frostfyre.
+Tue Apr  6 06:59:02 2004 :: Frostfyre@192.168.1.1 has connected.
+Tue Apr  6 08:24:59 2004 :: Sock.sinaddr:  65.25.164.82
+Tue Apr  6 08:25:02 2004 :: Loading Ponnet.
+Tue Apr  6 08:25:03 2004 :: Ponnet@CPE-65-25-164-82.wi.rr.com has connected.
+Tue Apr  6 08:25:44 2004 :: Log Ponnet: delete
+Tue Apr  6 08:25:44 2004 :: Log Ponnet: delete
+Tue Apr  6 08:25:44 2004 :: Ponnet has fled from KeggerMUD.
+Tue Apr  6 08:25:47 2004 :: Sock.sinaddr:  65.25.164.82
+Read_from_descriptor: Connection reset by peer
+Tue Apr  6 08:25:53 2004 :: Closing link to Ponnet.
+Tue Apr  6 09:51:37 2004 :: Sock.sinaddr:  206.76.234.235
+Tue Apr  6 09:51:43 2004 :: Loading Sankin.
+Tue Apr  6 09:51:46 2004 :: Closing link to Sankin.
+Tue Apr  6 09:51:48 2004 :: Sock.sinaddr:  206.76.234.235
+Tue Apr  6 09:51:52 2004 :: Loading Sankin.
+Tue Apr  6 09:51:52 2004 :: Sankin@206.76.234.235 has connected.
+Tue Apr  6 09:54:23 2004 :: Sankin has fled from KeggerMUD.
+Read_from_descriptor: Connection timed out
+Tue Apr  6 10:08:57 2004 :: Closing link to Frostfyre.
+Tue Apr  6 12:11:01 2004 :: Sock.sinaddr:  192.168.1.1
+Tue Apr  6 12:11:04 2004 :: Loading Frostfyre.
+Tue Apr  6 12:11:05 2004 :: Frostfyre@192.168.1.1 reconnected.
+Tue Apr  6 13:37:04 2004 :: Sock.sinaddr:  204.209.44.14
+Tue Apr  6 13:37:13 2004 :: EOF encountered on read.
+Tue Apr  6 13:37:36 2004 :: Sock.sinaddr:  151.203.63.214
+Tue Apr  6 13:38:29 2004 :: Zakath@pool-151-203-63-214.bos.east.verizon.net new player.
+Tue Apr  6 13:38:42 2004 :: EOF encountered on read.
+Tue Apr  6 13:38:42 2004 :: Closing link to Zakath.
+Read_from_descriptor: Connection reset by peer
+Tue Apr  6 17:00:37 2004 :: Closing link to Frostfyre.
+Tue Apr  6 17:00:41 2004 :: Sock.sinaddr:  192.168.1.1
+Tue Apr  6 17:01:11 2004 :: Loading Frostfyre.
+Tue Apr  6 17:01:12 2004 :: Frostfyre@192.168.1.1 reconnected.
+Tue Apr  6 18:49:28 2004 :: Sock.sinaddr:  24.216.204.126
+Tue Apr  6 18:49:56 2004 :: Laure@24-216-204-126.charter.com new player.
+Tue Apr  6 18:50:40 2004 :: Laure has fled from KeggerMUD.
+Tue Apr  6 19:27:48 2004 :: Sock.sinaddr:  67.32.217.204
+Tue Apr  6 19:29:53 2004 :: Tennlescpl@adsl-32-217-204.bna.bellsouth.net new player.
+Tue Apr  6 19:44:20 2004 :: EOF encountered on read.
+Tue Apr  6 19:44:20 2004 :: Closing link to Tennlescpl.
+Tue Apr  6 20:16:03 2004 :: Tennlescpl has fled from KeggerMUD.
+Tue Apr  6 20:18:41 2004 :: Sock.sinaddr:  67.32.217.204
+Tue Apr  6 20:19:17 2004 :: Trisles@adsl-32-217-204.bna.bellsouth.net new player.
+Tue Apr  6 20:19:20 2004 :: EOF encountered on read.
+Tue Apr  6 20:19:20 2004 :: Closing link to Trisles.
+Tue Apr  6 21:49:36 2004 :: Sock.sinaddr:  4.5.86.222
+Tue Apr  6 21:49:40 2004 :: EOF encountered on read.
+Tue Apr  6 23:08:28 2004 :: Sock.sinaddr:  67.32.217.204
+Tue Apr  6 23:09:07 2004 :: Trisles@adsl-32-217-204.bna.bellsouth.net new player.
+Tue Apr  6 23:12:11 2004 :: EOF encountered on read.
+Tue Apr  6 23:12:11 2004 :: Closing link to Trisles.
+Tue Apr  6 23:12:12 2004 :: Sock.sinaddr:  67.32.217.204
+Tue Apr  6 23:12:36 2004 :: Trisles@adsl-32-217-204.bna.bellsouth.net new player.
+Tue Apr  6 23:13:56 2004 :: EOF encountered on read.
+Tue Apr  6 23:13:56 2004 :: Closing link to Trisles.
+Tue Apr  6 23:14:08 2004 :: Sock.sinaddr:  67.32.217.204
+Tue Apr  6 23:14:35 2004 :: Trisles@adsl-32-217-204.bna.bellsouth.net new player.
+Tue Apr  6 23:19:15 2004 :: EOF encountered on read.
+Tue Apr  6 23:19:15 2004 :: Closing link to Trisles.
+Tue Apr  6 23:35:29 2004 :: Sock.sinaddr:  68.35.241.124
+Tue Apr  6 23:35:45 2004 :: EOF encountered on read.
+Tue Apr  6 23:35:45 2004 :: Closing link to Scorch.
+Tue Apr  6 23:51:06 2004 :: Trisles has fled from KeggerMUD.
+Wed Apr  7 09:06:26 2004 :: Sock.sinaddr:  68.32.22.61
+Wed Apr  7 09:07:03 2004 :: Aeris@pcp04156720pcs.walngs01.pa.comcast.net new player.
+Wed Apr  7 09:09:43 2004 :: Sock.sinaddr:  67.39.207.190
+Wed Apr  7 09:10:28 2004 :: EOF encountered on read.
+Wed Apr  7 09:10:28 2004 :: Closing link to Baine.
+Wed Apr  7 09:11:06 2004 :: Sock.sinaddr:  68.32.22.61
+Wed Apr  7 09:11:19 2004 :: Closing link to Aeris.
+Wed Apr  7 09:11:19 2004 :: Aeris@pcp04156720pcs.walngs01.pa.comcast.net reconnected.
+Wed Apr  7 09:11:42 2004 :: EOF encountered on read.
+Wed Apr  7 09:11:42 2004 :: Closing link to Aeris.
+Wed Apr  7 09:12:25 2004 :: Sock.sinaddr:  68.32.22.61
+Wed Apr  7 09:12:30 2004 :: Loading Aeris.
+Wed Apr  7 09:12:32 2004 :: Aeris@pcp04156720pcs.walngs01.pa.comcast.net reconnected.
+Wed Apr  7 09:18:05 2004 :: Aeris gained level 2!
+Wed Apr  7 09:19:40 2004 :: EOF encountered on read.
+Wed Apr  7 09:19:40 2004 :: Closing link to Aeris.
+Wed Apr  7 09:51:14 2004 :: Aeris has fled from KeggerMUD.
+Wed Apr  7 16:01:59 2004 :: EOF encountered on read.
+Wed Apr  7 16:01:59 2004 :: Closing link to Frostfyre.
+Wed Apr  7 16:56:58 2004 :: Sock.sinaddr:  216.231.179.176
+Wed Apr  7 16:57:26 2004 :: Viscont@176gis179.gulftel.com new player.
+Wed Apr  7 17:00:09 2004 :: Viscont has fled from KeggerMUD.
+Wed Apr  7 17:21:20 2004 :: Sock.sinaddr:  68.105.238.156
+Wed Apr  7 17:21:44 2004 :: EOF encountered on read.
+Wed Apr  7 17:21:56 2004 :: Sock.sinaddr:  68.105.238.156
+Wed Apr  7 17:22:18 2004 :: Axion@ip68-105-238-156.hr.hr.cox.net new player.
+Wed Apr  7 17:25:50 2004 :: EOF encountered on read.
+Wed Apr  7 17:25:50 2004 :: Closing link to Axion.
+Wed Apr  7 19:53:39 2004 :: Sock.sinaddr:  127.0.0.1
+Wed Apr  7 19:53:41 2004 :: Loading Frostfyre.
+Wed Apr  7 19:53:42 2004 :: Frostfyre@localhost reconnected.
+Wed Apr  7 19:55:04 2004 :: Sock.sinaddr:  12.222.137.62
+Wed Apr  7 19:55:16 2004 :: Bippal@12-222-137-62.client.insightBB.com new player.
+Wed Apr  7 19:55:40 2004 :: Bippal has fled from KeggerMUD.
+Wed Apr  7 19:55:42 2004 :: Frostfyre has fled from KeggerMUD.
+Wed Apr  7 22:18:50 2004 :: Sock.sinaddr:  204.209.44.14
+Wed Apr  7 22:18:58 2004 :: EOF encountered on read.
+Wed Apr  7 23:18:31 2004 :: Sock.sinaddr:  204.209.44.14
+Wed Apr  7 23:18:31 2004 :: EOF encountered on read.
+Thu Apr  8 02:12:48 2004 :: Sock.sinaddr:  204.209.44.14
+Thu Apr  8 02:12:49 2004 :: EOF encountered on read.
+Thu Apr  8 04:18:20 2004 :: Sock.sinaddr:  68.3.86.180
+Thu Apr  8 04:19:10 2004 :: EOF encountered on read.
+Thu Apr  8 04:19:10 2004 :: Closing link to Xavior.
+Thu Apr  8 04:19:11 2004 :: Sock.sinaddr:  68.3.86.180
+Thu Apr  8 04:19:11 2004 :: EOF encountered on read.
+Thu Apr  8 16:37:56 2004 :: Sock.sinaddr:  69.93.197.196
+Thu Apr  8 16:37:57 2004 :: EOF encountered on read.
+Thu Apr  8 18:17:40 2004 :: Sock.sinaddr:  80.0.109.52
+Thu Apr  8 18:18:03 2004 :: EOF encountered on read.
+Thu Apr  8 18:18:03 2004 :: Closing link to Akvar.
+Thu Apr  8 23:34:23 2004 :: Sock.sinaddr:  68.154.164.151
+Thu Apr  8 23:34:49 2004 :: Loading Trisles.
+Thu Apr  8 23:34:54 2004 :: Closing link to Trisles.
+Thu Apr  8 23:35:01 2004 :: Sock.sinaddr:  68.154.164.151
+Thu Apr  8 23:35:10 2004 :: Loading Trisles.
+Thu Apr  8 23:35:15 2004 :: Closing link to Trisles.
+Thu Apr  8 23:35:21 2004 :: Sock.sinaddr:  68.154.164.151
+Thu Apr  8 23:35:42 2004 :: Loading Trisles.
+Thu Apr  8 23:35:52 2004 :: Closing link to Trisles.
+Thu Apr  8 23:35:58 2004 :: Sock.sinaddr:  68.154.164.151
+Thu Apr  8 23:36:08 2004 :: Loading Tennlescpl.
+Thu Apr  8 23:36:12 2004 :: Closing link to Tennlescpl.
+Thu Apr  8 23:36:16 2004 :: Sock.sinaddr:  68.154.164.151
+Thu Apr  8 23:36:25 2004 :: Loading Tennlescpl.
+Thu Apr  8 23:36:29 2004 :: Closing link to Tennlescpl.
+Thu Apr  8 23:36:32 2004 :: Sock.sinaddr:  68.154.164.151
+Thu Apr  8 23:36:40 2004 :: Loading Tennlescpl.
+Thu Apr  8 23:36:46 2004 :: Tennlescpl@adsl-154-164-151.bna.bellsouth.net has connected.
+Thu Apr  8 23:48:01 2004 :: EOF encountered on read.
+Thu Apr  8 23:48:01 2004 :: Closing link to Tennlescpl.
+Fri Apr  9 00:20:00 2004 :: Tennlescpl has fled from KeggerMUD.

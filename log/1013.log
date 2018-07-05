@@ -1,0 +1,318 @@
+Fri Apr  9 06:39:08 2004 :: Loading configuration settings from ../area/qmconfig.rc.
+Fri Apr  9 06:39:08 2004 :: Set IP address to 0.0.0.0
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 06:39:08 2004 :: [*****] BUG: Fix_exits: 2:4 -> 3001:5 -> 3399.
+Fri Apr  9 06:39:08 2004 :: [*****] BUG: Fix_exits: 1150:4 -> 3001:5 -> 3399.
+Fri Apr  9 06:39:08 2004 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Fri Apr  9 06:39:08 2004 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Fri Apr  9 06:39:08 2004 :: [*****] BUG: Fix_exits: 1483:4 -> 3001:5 -> 3399.
+Fri Apr  9 06:39:08 2004 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Fri Apr  9 06:39:08 2004 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Fri Apr  9 06:39:08 2004 :: [*****] BUG: Fix_exits: 3760:4 -> 3001:5 -> 3399.
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9227)(Level 28) an icicle
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9228)(Level 24) the Ice Bandit
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  9235)(Level 16) a baby rainbow dragon
+Fri Apr  9 06:39:08 2004 :: Check Levels:
+Fri Apr  9 06:39:08 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Fri Apr  9 06:39:08 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Fri Apr  9 06:39:08 2004 :: ROM is ready to rock on port 7001 (0.0.0.0).
+Fri Apr  9 06:39:52 2004 :: Sock.sinaddr:  192.168.1.1
+Fri Apr  9 06:39:54 2004 :: Loading Frostfyre.
+Fri Apr  9 06:39:55 2004 :: Frostfyre@192.168.1.1 has connected.
+Fri Apr  9 06:44:13 2004 :: Frostfyre has fled from KeggerMUD.
+Fri Apr  9 06:44:22 2004 :: Sock.sinaddr:  192.168.1.1
+Fri Apr  9 06:44:25 2004 :: Loading Frostfyre.
+Fri Apr  9 06:44:26 2004 :: Frostfyre@192.168.1.1 has connected.
+Fri Apr  9 07:05:30 2004 :: Sock.sinaddr:  162.84.5.147
+Fri Apr  9 07:05:56 2004 :: Mandol@client-162-84-5-147.bellatlantic.net new player.
+Fri Apr  9 07:06:09 2004 :: Mandol has fled from KeggerMUD.
+Fri Apr  9 07:37:11 2004 :: Check Levels:
+Fri Apr  9 07:37:11 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Fri Apr  9 07:37:11 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Fri Apr  9 07:37:11 2004 :: Check Levels:
+Fri Apr  9 07:37:11 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 07:37:11 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Fri Apr  9 07:37:11 2004 :: Check Levels:
+Fri Apr  9 07:37:11 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Fri Apr  9 07:37:11 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Fri Apr  9 07:37:11 2004 :: Check Levels:
+Fri Apr  9 07:37:11 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 07:37:11 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 07:37:11 2004 :: Check Levels:
+Fri Apr  9 07:37:11 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 07:37:11 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 07:37:11 2004 :: Check Levels:
+Fri Apr  9 07:37:11 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 07:37:11 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Fri Apr  9 07:37:11 2004 :: Check Levels:
+Fri Apr  9 07:37:11 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 07:37:11 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Fri Apr  9 07:39:11 2004 :: Check Levels:
+Fri Apr  9 07:39:11 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Fri Apr  9 07:39:11 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Fri Apr  9 07:40:34 2004 :: Log Frostfyre: copyover
+Fri Apr  9 07:40:34 2004 :: Loading configuration settings from ../area/qmconfig.rc.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: Loaded 0 mobprogs.
+Fri Apr  9 07:40:34 2004 :: [*****] BUG: Fix_exits: 2:4 -> 3001:5 -> 3399.
+Fri Apr  9 07:40:34 2004 :: [*****] BUG: Fix_exits: 1150:4 -> 3001:5 -> 3399.
+Fri Apr  9 07:40:34 2004 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Fri Apr  9 07:40:34 2004 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Fri Apr  9 07:40:34 2004 :: [*****] BUG: Fix_exits: 1483:4 -> 3001:5 -> 3399.
+Fri Apr  9 07:40:34 2004 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Fri Apr  9 07:40:34 2004 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Fri Apr  9 07:40:34 2004 :: [*****] BUG: Fix_exits: 3760:4 -> 3001:5 -> 3399.
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9227)(Level 28) an icicle
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9228)(Level 24) the Ice Bandit
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  9235)(Level 16) a baby rainbow dragon
+Fri Apr  9 07:40:34 2004 :: Check Levels:
+Fri Apr  9 07:40:34 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Fri Apr  9 07:40:34 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Fri Apr  9 07:40:34 2004 :: ROM is ready to rock on port 7001 (0.0.0.0).
+Fri Apr  9 07:40:34 2004 :: Copyover recovery initiated
+Fri Apr  9 07:40:34 2004 :: Loading Frostfyre.
+Fri Apr  9 08:03:27 2004 :: Frostfyre has fled from KeggerMUD.
+Fri Apr  9 08:36:35 2004 :: Check Levels:
+Fri Apr  9 08:36:35 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Fri Apr  9 08:36:35 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Fri Apr  9 08:40:35 2004 :: Check Levels:
+Fri Apr  9 08:40:35 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Fri Apr  9 08:40:35 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Fri Apr  9 08:40:35 2004 :: Check Levels:
+Fri Apr  9 08:40:35 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 08:40:35 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Fri Apr  9 08:40:35 2004 :: Check Levels:
+Fri Apr  9 08:40:35 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Fri Apr  9 08:40:35 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Fri Apr  9 08:40:35 2004 :: Check Levels:
+Fri Apr  9 08:40:35 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 08:40:35 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 08:40:35 2004 :: Check Levels:
+Fri Apr  9 08:40:35 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 08:40:35 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 08:40:35 2004 :: Check Levels:
+Fri Apr  9 08:40:35 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 08:40:35 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Fri Apr  9 08:40:35 2004 :: Check Levels:
+Fri Apr  9 08:40:35 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 08:40:35 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Fri Apr  9 09:36:35 2004 :: Check Levels:
+Fri Apr  9 09:36:35 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Fri Apr  9 09:36:35 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Fri Apr  9 09:36:35 2004 :: Check Levels:
+Fri Apr  9 09:36:35 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Fri Apr  9 09:36:35 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Fri Apr  9 10:02:43 2004 :: Sock.sinaddr:  65.25.164.82
+Fri Apr  9 10:02:54 2004 :: Ponnet@CPE-65-25-164-82.wi.rr.com new player.
+Fri Apr  9 10:03:12 2004 :: Ponnet has fled from KeggerMUD.
+Fri Apr  9 10:14:11 2004 :: Sock.sinaddr:  213.122.34.155
+Fri Apr  9 10:14:42 2004 :: Akiel@host213-122-34-155.in-addr.btopenworld.com new player.
+Fri Apr  9 10:14:53 2004 :: Akiel has fled from KeggerMUD.
+Fri Apr  9 10:51:45 2004 :: Sock.sinaddr:  24.12.143.105
+Fri Apr  9 10:52:09 2004 :: Larrek@c-24-12-143-105.client.comcast.net new player.
+Fri Apr  9 10:52:26 2004 :: Larrek has fled from KeggerMUD.
+Fri Apr  9 11:15:38 2004 :: Sock.sinaddr:  69.197.208.12
+Fri Apr  9 11:16:01 2004 :: Frain@CPE000c6ea7af99-CM00407b878923.cpe.net.cable.rogers.com new player.
+Fri Apr  9 11:16:15 2004 :: Frain has fled from KeggerMUD.
+Fri Apr  9 16:57:29 2004 :: Sock.sinaddr:  69.66.74.128
+Fri Apr  9 16:57:32 2004 :: Loading Lark.
+Fri Apr  9 16:57:33 2004 :: Lark@mnpl-002-128.dialup.iowatelecom.net has connected.
+Fri Apr  9 16:57:39 2004 :: Lark has fled from KeggerMUD.
+Sat Apr 10 00:44:29 2004 :: Sock.sinaddr:  131.247.237.24
+Sat Apr 10 00:44:50 2004 :: Brad@holly237-24.resnet.usf.edu new player.
+Sat Apr 10 00:44:59 2004 :: EOF encountered on read.
+Sat Apr 10 00:44:59 2004 :: Closing link to Brad.
+Sat Apr 10 00:48:26 2004 :: Sock.sinaddr:  68.35.241.124
+Sat Apr 10 00:48:31 2004 :: EOF encountered on read.
+Sat Apr 10 01:14:22 2004 :: Sock.sinaddr:  204.209.44.14
+Sat Apr 10 01:14:22 2004 :: EOF encountered on read.
+Sat Apr 10 06:11:10 2004 :: Sock.sinaddr:  68.123.73.121
+Sat Apr 10 06:11:29 2004 :: Einar@adsl-68-123-73-121.dsl.renocs.pacbell.net new player.
+Sat Apr 10 06:13:02 2004 :: Einar has fled from KeggerMUD.
+Sat Apr 10 06:14:24 2004 :: Sock.sinaddr:  68.123.73.121
+Sat Apr 10 06:14:29 2004 :: EOF encountered on read.
+Sat Apr 10 10:09:23 2004 :: Sock.sinaddr:  213.122.64.31
+Sat Apr 10 10:09:29 2004 :: Loading Akiel.
+Sat Apr 10 10:09:42 2004 :: Closing link to Akiel.
+Sat Apr 10 10:09:51 2004 :: Sock.sinaddr:  213.122.64.31
+Sat Apr 10 10:09:58 2004 :: EOF encountered on read.
+Sat Apr 10 20:08:06 2004 :: Sock.sinaddr:  68.51.145.164
+Sat Apr 10 20:08:24 2004 :: EOF encountered on read.
+Sat Apr 10 21:00:14 2004 :: Sock.sinaddr:  69.66.73.56
+Sat Apr 10 21:00:25 2004 :: Loading Lark.
+Sat Apr 10 21:00:27 2004 :: Lark@mnpl-001-056.dialup.iowatelecom.net has connected.
+Sat Apr 10 21:09:40 2004 :: Lark has fled from KeggerMUD.
+Sat Apr 10 22:17:47 2004 :: Sock.sinaddr:  204.209.44.14
+Sat Apr 10 22:17:55 2004 :: EOF encountered on read.
+Sun Apr 11 01:14:37 2004 :: Sock.sinaddr:  204.209.44.14
+Sun Apr 11 01:14:38 2004 :: EOF encountered on read.
+Sun Apr 11 08:58:41 2004 :: Sock.sinaddr:  65.165.63.60
+Sun Apr 11 08:58:58 2004 :: Grux@65.165.63.60 new player.
+Sun Apr 11 08:59:07 2004 :: Grux has fled from KeggerMUD.
+Sun Apr 11 21:02:43 2004 :: Sock.sinaddr:  4.241.9.183
+Sun Apr 11 21:03:00 2004 :: EOF encountered on read.
+Mon Apr 12 00:38:20 2004 :: Sock.sinaddr:  24.225.222.228
+Mon Apr 12 00:38:37 2004 :: Caine@host-24-225-222-228.patmedia.net new player.
+Mon Apr 12 00:39:01 2004 :: EOF encountered on read.
+Mon Apr 12 00:39:01 2004 :: Closing link to Caine.
+Mon Apr 12 01:14:28 2004 :: Sock.sinaddr:  204.209.44.14
+Mon Apr 12 01:14:28 2004 :: EOF encountered on read.
+Mon Apr 12 05:46:52 2004 :: Sock.sinaddr:  217.22.55.50
+Mon Apr 12 05:47:03 2004 :: Ranka@phenix.rootshell.be new player.
+Mon Apr 12 05:47:39 2004 :: Ranka has fled from KeggerMUD.
+Mon Apr 12 09:19:13 2004 :: Sock.sinaddr:  204.209.44.14
+Mon Apr 12 09:19:21 2004 :: EOF encountered on read.
+Mon Apr 12 09:34:48 2004 :: Sock.sinaddr:  214.1.101.50
+Mon Apr 12 09:36:34 2004 :: Tyred@214.1.101.50 new player.
+Mon Apr 12 09:37:04 2004 :: EOF encountered on read.
+Mon Apr 12 09:37:04 2004 :: Closing link to Tyred.
+Mon Apr 12 09:37:04 2004 :: Sock.sinaddr:  214.1.101.50
+Mon Apr 12 09:37:25 2004 :: Tyred@nhglnatgway.med.navy.mil new player.
+Mon Apr 12 09:42:11 2004 :: Tyred gained level 2!

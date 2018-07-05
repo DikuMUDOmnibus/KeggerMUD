@@ -1,0 +1,424 @@
+#AREADATA
+Name Leigh's Room~
+Builders Leigh~
+VNUMs 18000 18999
+Credits 420 420} Immortals~
+Security 9
+End
+
+
+
+#MOBILES
+#18000
+devilish trader~
+the devilish trader~
+{RSmiling{x as you enter his shop, a devilish looking man greets you. 
+~
+His eyes twikling with greedy anticipation as he shows you his weares,
+this trader seems almost to eager to sell you anything.  
+~
+human~
+ABc 0 0 0
+400 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#18000
+canopy bed~
+{DLeigh's {xcanopy bed~
+A large canopy bed with thick {mpurple{x and {Dblack{x curtains fills the center of the room~
+unknown~
+furniture 0 0
+C GJOQRST FIL BEF BEF
+0 10000 0 P
+#18001
+aura darkness~
+aura of Darkness~
+A blackness so deep that the surrounding light seems to be sucked into is floating here.~
+unknown~
+armor A AQ
+AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef AEFGHIJKLMNOPQRSTUVWXYZabcdef 0
+419 0 0 P
+A
+1 -10
+A
+1 10
+A
+1 10
+A
+5 10
+A
+3 10
+A
+20 -100
+A
+17 -100
+A
+4 10
+A
+19 100
+A
+18 100
+A
+12 1000
+A
+13 1000
+#18002
+cage~
+{DLeigh's{x cage.~
+A large iron cage, meant to hold anyone Leigh feels the need to hold, sits in the corner.~
+metal~
+furniture 0 0
+B GJOQRST FIL 0 0
+0 0 0 P
+#18003
+fountain~
+onyx fountain.~
+A huge fountain made entirely of {Donyx{x and {wsilver{x is here.~
+unknown~
+fountain 0 0
+-1 -1 'lemonade' 0 0
+0 0 0 P
+#18004
+east banquet table~
+east banquet table~
+{XA long banquet table is set here to the east of the fountain. ~
+unknown~
+furniture 0 0
+CE GJOQRST D CFG CFG
+0 10000 0 P
+#18005
+west banquet table~
+west banquet table~
+{XA long banquet table is set here to the west of the fountain. ~
+unknown~
+furniture 0 0
+GJOQRST 0 D CFG CFG
+0 10000 0 P
+#18006
+leigh vinyl dress~
+{DA form-fitting vinyl dress{x~
+{DA beautiful dress lies here, made of vinyl.{x~
+vinyl~
+armor ABG AD
+EHI EHI EHI EHI 0
+419 10 300000 P
+A
+13 6969
+A
+12 6969
+A
+14 6969
+A
+18 420
+A
+19 420
+A
+3 16
+A
+4 16
+A
+2 16
+A
+5 16
+A
+1 16
+A
+24 420
+E
+dress~
+A beautiful dress, perfect in all aspects to even the immortal eye.
+It's perfect seaming is almost invisible, and seems like almost
+a glove, fit only for the most perfect of bodies. The goddess
+used to sculpt this creation was Leigh, the divine seamstress of
+all creation.
+~
+#18100
+potion sanctuary~
+a potion of sanctuary~
+A potion of sanctuary has been left here.~
+null~
+potion AB AO
+400 'sanctuary' '' '' ''
+400 1 100 P
+#18101
+potion heal~
+a potion of healing~
+{BA potion of healing{x has been left here.~
+null~
+potion 0 AO
+400 'heal' 'heal' '' ''
+400 1 100 P
+#18102
+dagger night~
+dagger of night~
+{DA dagger{X lies here waiting to be picked up~
+unknown~
+weapon B AN
+dagger 10 100 pierce 0
+201 4 1250 P
+A
+12 440
+A
+13 440
+A
+19 24
+A
+18 17
+#0
+
+
+
+#ROOMS
+#18000
+~
+A large room lit only by the light of at least a hundred candles, shelves
+of books line the walls from floor to ceiling.  A large ebony desk stands
+off on the left side of the room, stacks of papers and piles of coins
+covering it's top.  The main feature of the room is the huge canopy bed,
+completely covered in beautiful velvet curtains it seems large enough that
+at least four could sleep there comfortably.  
+~
+0 4 0
+D1
+~
+~
+1 0 18001
+S
+#18001
+~
+~
+0 0 0
+D1
+~
+~
+1 0 18002
+D3
+~
+~
+1 0 18000
+S
+#18002
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18003
+D1
+~
+~
+0 0 18005
+D3
+~
+~
+1 0 18001
+S
+#18003
+~
+A cramped space with bottles filling shelves all the way aroung the tiny
+room, more bottles are on the counter the shopkeeper is sitting behind
+smiling at you impishly.  
+~
+0 8 0
+D2
+~
+~
+0 0 18002
+S
+#18005
+~
+~
+0 0 0
+D1
+~
+~
+1 0 18006
+D3
+~
+~
+0 0 18002
+S
+#18006
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18007
+D2
+~
+~
+0 0 18010
+D3
+~
+~
+1 0 18005
+S
+#18007
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18008
+D2
+~
+~
+0 0 18006
+S
+#18008
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18009
+D2
+~
+~
+0 0 18007
+S
+#18009
+~
+~
+0 0 0
+D1
+~
+~
+0 0 18010
+D2
+~
+~
+0 0 18008
+S
+#18010
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18006
+D2
+~
+~
+0 0 18011
+D3
+~
+~
+0 0 18009
+S
+#18011
+~
+~
+0 0 0
+D0
+~
+~
+0 0 18010
+D1
+~
+~
+0 0 18012
+S
+#18012
+~
+~
+0 0 0
+D2
+~
+~
+1 0 18013
+D3
+~
+~
+0 0 18011
+S
+#18013
+~
+~
+0 0 0
+D0
+~
+~
+1 0 18012
+S
+#18100
+~
+Flames dance in large oil burners scattered through out the hall.  Demon
+servants run past, bent on serving thier masters whims.  Two large statues
+stand guard on either side of the raised dais where Leigh's throne is found.
+Long tables set for a feast, all of the chairs facing north towards the dais
+are lined up on either side of the fountain 
+~
+0 8 0
+D2
+~
+~
+1 0 18101
+S
+#18101
+~
+~
+0 0 0
+D0
+~
+~
+1 0 18100
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 18000 1 1
+D 0 18001 1 1
+D 0 18001 3 1
+D 0 18002 3 1
+D 0 18005 1 1
+D 0 18006 3 1
+D 0 18012 2 1
+D 0 18013 0 1
+D 0 18100 2 1
+D 0 18101 0 1
+O 0 18000 0 18000 {dleigh's {xcanopy bed loaded to 
+O 0 18002 0 18000 {dleigh's{x cage. loaded to 
+M 0 18000 1 18003 1 Load the devilish trader
+G 0 18100 0 A potion of sanctuary is given to the devilish trader
+G 0 18102 0 Dagger of night is given to the devilish trader
+G 0 18101 0 A potion of healing is given to the devilish trader
+O 0 18003 0 18100 Onyx fountain. loaded to 
+O 0 18004 0 18100 East banquet table loaded to 
+O 0 18005 0 18100 West banquet table loaded to 
+S
+
+
+
+#SHOPS
+18000 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

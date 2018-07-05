@@ -1,0 +1,215 @@
+Mon Mar 29 16:58:16 2004 :: Loading configuration settings from ../area/qmconfig.rc.
+Mon Mar 29 16:58:16 2004 :: Set IP address to 0.0.0.0
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: Loaded 0 mobprogs.
+Mon Mar 29 16:58:16 2004 :: [*****] BUG: Fix_exits: 2:4 -> 3001:5 -> 3399.
+Mon Mar 29 16:58:16 2004 :: [*****] BUG: Fix_exits: 1150:4 -> 3001:5 -> 3399.
+Mon Mar 29 16:58:16 2004 :: [*****] BUG: Fix_exits: 10525:1 -> 10535:3 -> 10534.
+Mon Mar 29 16:58:16 2004 :: [*****] BUG: Fix_exits: 3458:2 -> 3472:0 -> 10401.
+Mon Mar 29 16:58:16 2004 :: [*****] BUG: Fix_exits: 1483:4 -> 3001:5 -> 3399.
+Mon Mar 29 16:58:16 2004 :: [*****] BUG: Fix_exits: 8705:4 -> 8706:5 -> 8708.
+Mon Mar 29 16:58:16 2004 :: [*****] BUG: Fix_exits: 8717:2 -> 8719:0 -> 8718.
+Mon Mar 29 16:58:16 2004 :: [*****] BUG: Fix_exits: 3760:4 -> 3001:5 -> 3399.
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9227)(Level 28) an icicle
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9228)(Level 24) the Ice Bandit
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  9235)(Level 16) a baby rainbow dragon
+Mon Mar 29 16:58:16 2004 :: Check Levels:
+Mon Mar 29 16:58:16 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Mon Mar 29 16:58:16 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Mon Mar 29 16:58:16 2004 :: ROM is ready to rock on port 7001 (0.0.0.0).
+Mon Mar 29 16:58:43 2004 :: Sock.sinaddr:  127.0.0.1
+Mon Mar 29 16:58:46 2004 :: Loading Frostfyre.
+Mon Mar 29 16:58:47 2004 :: Frostfyre@localhost has connected.
+Mon Mar 29 17:56:18 2004 :: Check Levels:
+Mon Mar 29 17:56:18 2004 ::   Object: (VNUM  9217)(Level  7) an elemental rod of earthquake
+Mon Mar 29 17:56:18 2004 ::      Mob: (VNUM  9217)(Level  3) a small rock
+Mon Mar 29 17:56:18 2004 :: Check Levels:
+Mon Mar 29 17:56:18 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Mon Mar 29 17:56:18 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Mon Mar 29 17:56:18 2004 :: Check Levels:
+Mon Mar 29 17:56:18 2004 ::   Object: (VNUM  9216)(Level 25) an ice staff
+Mon Mar 29 17:56:18 2004 ::      Mob: (VNUM  9214)(Level  8) a puddle
+Mon Mar 29 17:56:18 2004 :: Check Levels:
+Mon Mar 29 17:56:18 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Mon Mar 29 17:56:18 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Mon Mar 29 17:56:18 2004 :: Check Levels:
+Mon Mar 29 17:56:18 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Mon Mar 29 17:56:18 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Mon Mar 29 17:56:18 2004 :: Check Levels:
+Mon Mar 29 17:56:18 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Mon Mar 29 17:56:18 2004 ::      Mob: (VNUM  9218)(Level  4) a small spark
+Mon Mar 29 17:56:18 2004 :: Check Levels:
+Mon Mar 29 17:56:18 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Mon Mar 29 17:56:18 2004 ::      Mob: (VNUM  9225)(Level  2) an eddie
+Mon Mar 29 17:56:18 2004 :: Check Levels:
+Mon Mar 29 17:56:18 2004 ::   Object: (VNUM  8010)(Level  5) a wet noodle
+Mon Mar 29 17:56:18 2004 ::      Mob: (VNUM  8002)(Level 17) a Futsie
+Mon Mar 29 18:07:47 2004 :: Sock.sinaddr:  64.222.130.200
+Mon Mar 29 18:07:50 2004 :: EOF encountered on read.
+Mon Mar 29 18:52:19 2004 :: Check Levels:
+Mon Mar 29 18:52:19 2004 ::   Object: (VNUM  9218)(Level 27) elemental wand of wind and air
+Mon Mar 29 18:52:19 2004 ::      Mob: (VNUM  9234)(Level 13) an alchemist
+Mon Mar 29 18:52:19 2004 :: Check Levels:
+Mon Mar 29 18:52:19 2004 ::   Object: (VNUM  9215)(Level 16) elemental wand of fire
+Mon Mar 29 18:52:19 2004 ::      Mob: (VNUM  9215)(Level  4) a flame
+Mon Mar 29 20:02:43 2004 :: Sock.sinaddr:  209.132.171.82
+Mon Mar 29 20:02:52 2004 :: [*****] BUG: Load_char_obj: # not found.
+Mon Mar 29 20:02:55 2004 :: Closing link to Abazan.
+Mon Mar 29 20:03:23 2004 :: Sock.sinaddr:  209.132.171.82
+Mon Mar 29 20:03:30 2004 :: [*****] BUG: Load_char_obj: # not found.
+Mon Mar 29 20:03:33 2004 :: Closing link to Abazan.
+Mon Mar 29 20:04:39 2004 :: Sock.sinaddr:  209.132.171.82
+Mon Mar 29 20:05:04 2004 :: Noxious@5a-73.ccrtc.com new player.
+Mon Mar 29 20:05:55 2004 :: Noxious has fled from KeggerMUD.
+Mon Mar 29 20:42:30 2004 :: Sock.sinaddr:  209.142.173.194
+Mon Mar 29 20:43:10 2004 :: Lokrath@209.142.173.194 new player.
+Read_from_descriptor: Connection reset by peer
+Mon Mar 29 20:44:10 2004 :: Closing link to Lokrath.
+Mon Mar 29 21:15:26 2004 :: Lokrath has fled from KeggerMUD.
+Mon Mar 29 22:04:16 2004 :: Sock.sinaddr:  192.168.1.1
+Mon Mar 29 22:07:44 2004 :: Sock.sinaddr:  24.20.216.136
+Mon Mar 29 22:07:53 2004 :: EOF encountered on read.
+Mon Mar 29 22:07:53 2004 :: Closing link to Dunadan.
+Mon Mar 29 23:17:07 2004 :: Sock.sinaddr:  192.168.1.1
+Mon Mar 29 23:17:09 2004 :: Loading Frostfyre.
+Mon Mar 29 23:17:11 2004 :: Closing link to Frostfyre.
+Mon Mar 29 23:17:11 2004 :: Frostfyre@192.168.1.1 reconnected.
+Mon Mar 29 23:17:25 2004 :: Frostfyre has fled from KeggerMUD.
+Mon Mar 29 23:17:27 2004 :: Sock.sinaddr:  192.168.1.1
+Mon Mar 29 23:17:30 2004 :: Loading Frostfyre.
+Mon Mar 29 23:17:31 2004 :: Frostfyre@192.168.1.1 has connected.
+Mon Mar 29 23:35:39 2004 :: Sock.sinaddr:  24.20.216.136
+Mon Mar 29 23:36:19 2004 :: Dunadan@c-24-20-216-136.client.comcast.net new player.
+Mon Mar 29 23:36:36 2004 :: EOF encountered on read.
+Mon Mar 29 23:36:36 2004 :: Closing link to Dunadan.
+Tue Mar 30 00:08:31 2004 :: Dunadan has fled from KeggerMUD.
+Tue Mar 30 00:54:02 2004 :: Sock.sinaddr:  172.128.232.71
+Tue Mar 30 00:54:29 2004 :: EOF encountered on read.
+Tue Mar 30 00:54:29 2004 :: Closing link to Broden.
+Tue Mar 30 01:19:59 2004 :: Sock.sinaddr:  209.132.171.139
+Tue Mar 30 01:20:07 2004 :: [*****] BUG: Load_char_obj: # not found.
+Tue Mar 30 01:20:09 2004 :: Closing link to Abazan.
+Tue Mar 30 02:22:32 2004 :: Sock.sinaddr:  172.159.154.70
+Tue Mar 30 02:23:15 2004 :: EOF encountered on read.
+Tue Mar 30 02:23:15 2004 :: Closing link to Corin.
+Tue Mar 30 03:46:24 2004 :: Sock.sinaddr:  24.20.216.136
+Tue Mar 30 03:52:56 2004 :: EOF encountered on read.
+Tue Mar 30 08:07:34 2004 :: Sock.sinaddr:  204.209.44.14
+Tue Mar 30 08:07:35 2004 :: EOF encountered on read.
+Tue Mar 30 14:01:16 2004 :: Frostfyre has fled from KeggerMUD.
+Tue Mar 30 16:18:59 2004 :: Sock.sinaddr:  213.98.153.32
+Tue Mar 30 16:19:27 2004 :: Gareth@32.Red-213-98-153.pooles.rima-tde.net new player.
+Tue Mar 30 16:23:33 2004 :: Gareth gained level 2!
+Tue Mar 30 16:25:03 2004 :: Gareth killed by the aggressive monster at 3713
+Tue Mar 30 16:25:08 2004 :: Gareth has fled from KeggerMUD.
+Tue Mar 30 22:12:01 2004 :: Sock.sinaddr:  24.150.3.132
+Read_from_descriptor: Connection reset by peer
+Tue Mar 30 23:09:07 2004 :: Sock.sinaddr:  68.123.72.237
+Tue Mar 30 23:09:18 2004 :: EOF encountered on read.
+Tue Mar 30 23:09:18 2004 :: Closing link to Einar.
+Tue Mar 30 23:19:02 2004 :: Sock.sinaddr:  24.150.237.49
+Read_from_descriptor: Connection reset by peer
+Tue Mar 30 23:19:17 2004 :: Closing link to Jaegar.
+Tue Mar 30 23:53:07 2004 :: Sock.sinaddr:  24.150.237.49
+Tue Mar 30 23:53:18 2004 :: EOF encountered on read.
+Wed Mar 31 00:18:18 2004 :: Sock.sinaddr:  192.168.1.1
+Wed Mar 31 00:18:21 2004 :: Loading Frostfyre.
+Wed Mar 31 00:18:22 2004 :: Frostfyre@192.168.1.1 has connected.
+Wed Mar 31 00:18:25 2004 :: Frostfyre has fled from KeggerMUD.
+Wed Mar 31 00:20:20 2004 :: Sock.sinaddr:  204.209.44.14
+Wed Mar 31 00:20:28 2004 :: EOF encountered on read.
+Wed Mar 31 00:20:37 2004 :: Sock.sinaddr:  65.164.74.50
+Wed Mar 31 00:20:57 2004 :: Indirian@65.164.74.50 new player.
+Wed Mar 31 00:21:36 2004 :: EOF encountered on read.
+Wed Mar 31 00:21:36 2004 :: Closing link to Indirian.
+Wed Mar 31 00:52:47 2004 :: Indirian has fled from KeggerMUD.
+Wed Mar 31 02:56:06 2004 :: Sock.sinaddr:  67.97.56.178
+Wed Mar 31 02:56:12 2004 :: EOF encountered on read.
+Wed Mar 31 05:00:23 2004 :: Sock.sinaddr:  24.150.237.49
+Wed Mar 31 05:00:44 2004 :: Silas@d150-237-49.home.cgocable.net new player.
+Wed Mar 31 05:02:57 2004 :: Silas has fled from KeggerMUD.
+Wed Mar 31 08:05:54 2004 :: Sock.sinaddr:  204.209.44.14
+Wed Mar 31 08:05:54 2004 :: EOF encountered on read.
+Wed Mar 31 14:20:47 2004 :: Sock.sinaddr:  68.237.142.146
+Wed Mar 31 14:20:50 2004 :: EOF encountered on read.
+Wed Mar 31 14:34:39 2004 :: Sock.sinaddr:  212.242.121.94
+Wed Mar 31 14:34:54 2004 :: Tepes@port91.ds1-sl.adsl.cybercity.dk new player.
+Wed Mar 31 14:35:28 2004 :: Tepes has fled from KeggerMUD.
+Wed Mar 31 15:56:31 2004 :: Sock.sinaddr:  81.228.184.195
+Wed Mar 31 15:57:32 2004 :: Aro@h195n1fls313o1049.telia.com new player.
+Wed Mar 31 16:20:55 2004 :: Aro has fled from KeggerMUD.
+Wed Mar 31 16:21:19 2004 :: Sock.sinaddr:  81.228.184.195
+Read_from_descriptor: Connection reset by peer

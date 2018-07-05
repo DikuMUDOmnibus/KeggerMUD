@@ -1,0 +1,106 @@
+#AREADATA
+Name Abazan's Domain~
+Builders Abazan~
+VNUMs 19000 19999
+Credits 418 418} Lair of Abazan~
+Security 8
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#19000
+Abazan's Bed~
+a bed~
+A large unmade king-sized bed.~
+unknown~
+furniture 0 0
+B FHJKPQ EHL CFG CFG
+0 10000 0 P
+#19001
+Abazan's Green Crystal~
+a green crystal~
+A pulsating and glowing green crystal.~
+unknown~
+armor A AQ
+0 0 0 0 0
+418 0 0 P
+A
+19 100
+A
+18 100
+A
+20 -100
+A
+12 1000
+A
+13 1000
+#0
+
+
+
+#ROOMS
+#19000
+Abazan's Room~
+~
+0 4 0
+D1
+~
+~
+1 0 19001
+D3
+~
+~
+1 0 19002
+S
+#19001
+~
+~
+0 0 0
+D3
+~
+~
+1 0 19000
+S
+#19002
+~
+~
+0 0 0
+D1
+~
+~
+1 0 19000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 19000 1 1
+D 0 19000 3 1
+D 0 19001 3 1
+D 0 19002 1 1
+O 0 19000 0 19000 A bed loaded to Abazan's Room
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
